@@ -1,0 +1,16 @@
+coordinates:
+    format: utm
+    zone: 33
+    hemisphere: N
+
+center location:
+    name: Town Hall
+    lat: 56.630170
+    lon: 14.319475
+    max distance: 5000
+
+input:
+    name: 1
+    x: 2
+    y: 3
+    header: true
